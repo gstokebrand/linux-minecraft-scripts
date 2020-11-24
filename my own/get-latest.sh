@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd "$( dirname $0 )"
+
 source config.cfg
 
 #Out with the old, in with the new
